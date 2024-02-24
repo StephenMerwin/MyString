@@ -1,8 +1,8 @@
 /****************************************************************
 * author: Stephen Merwin
 * class: CS1D
-* date: 09/18/18
-* function: my string class using array
+* date: 10/09/18
+* function: my string class using linked lists
 ****************************************************************/
 #ifndef HEADER_H
 #define HEADER_H

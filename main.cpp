@@ -32,6 +32,6 @@ int main(){
     cout << "First letter of str3 is " << str3[0] << endl;
     
     cout << "All tests complete :)" << endl;
-    
+
 return 0;
  }
